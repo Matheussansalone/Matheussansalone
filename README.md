@@ -1,7 +1,9 @@
 ### HI THERE 👻
-- I`m Matheus Gottlicher Sansalone
-- I live in Curitiba-BR
-- Front-end developer
+- I`m Matheus Gottlicher Sansalone 💀
+- I live in Curitiba-BR🌎
+- Front-end developer🚀
+- Studying to be FullStack🤯🥵
+- "Failure is not an option!"💸💸💸
 - Creating projects with:
  <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
