@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
       <br>
-      <img width="200px" src="https://i.pinimg.com/control2/736x/4d/53/a2/4d53a24f51bb4d11219a0922c1c4f801.jpg" >
+  
 
 <!---
 Matheussansalone/Matheussansalone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
